@@ -8,16 +8,17 @@ Pour mon Projet j'ai choisi 03 modes :
   * soft_vibration
   * high vibration (vibration très élevé)
   * off (pas de vibration)
-![img]()
-![img]()
+![img](images/1.png)
+![img](images/12.png)
 
 ## 2e étape: Create Impulse
 ## 3e étape: Extract Features
 * ![img]()
 ## 4e étape: Entrainement du modèle
 
-* ![img]()
-* ![img]()
+* ![img](images/2.png)
+* ![img](images/3.png)
 * ![img]()
 
 ## 4e étape: Model Testing
+ ![img](images/4.png)
