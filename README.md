@@ -9,7 +9,7 @@ Pour mon Projet j'ai choisi 03 modes :
   * high vibration (vibration très élevé)
   * off (pas de vibration)
 ![img](images/1.png)
-![img](images/12.png)
+![img](images/1.png)
 
 ## 2e étape: Create Impulse
 ## 3e étape: Extract Features
