@@ -13,7 +13,7 @@ Pour mon Projet j'ai choisi 03 modes :
 
 ## 2e étape: Create Impulse
 ## 3e étape: Extract Features
-* ![img]()
+![img](images/1.png)
 ## 4e étape: Entrainement du modèle
 
 * ![img](images/2.png)
@@ -21,4 +21,4 @@ Pour mon Projet j'ai choisi 03 modes :
 * ![img]()
 
 ## 4e étape: Model Testing
- ![img](images/4.png)
+  ![img](images/4.png)
